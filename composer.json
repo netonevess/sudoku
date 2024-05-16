@@ -14,5 +14,7 @@
             "email": "alvinhoo.mota@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "league/climate": "^3.8"
+    }
 }
